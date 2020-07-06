@@ -1,0 +1,5 @@
+﻿  ArbolAVL.cpp
+  ArbolBB.cpp
+  Generating Code...
+C:\Users\Rohi\source\repos\Proyecto 2 FINAL\Proyecto 2 FINAL\ArbolBB.cpp(26): warning C4715: 'ArbolBB::Insertar': not all control paths return a value
+  Proyecto 2 FINAL.vcxproj -> C:\Users\Rohi\source\repos\Proyecto 2 FINAL\Debug\Proyecto 2 FINAL.exe

@@ -1,19 +1,17 @@
 #include "DiccionarioCuentas.h"
-#include <vector>
 
 int DiccionarioCuentas::Hash(std::string palabra)
 {
-	//return palabra.size();
+	
 
-	// No puedo llamar .size in hacer el for auto, se paso con str y vector
-
-	/*int res = 0;
+	int res = 0;
 
 	for (auto i : palabra) {
 
-	}*/
+		res = res * 311 + i;
+	}
 	
-
+	return res;
 }
 
 
